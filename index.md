@@ -30,11 +30,10 @@ I'm a Mathematician who decided to learn to code, applying my background in Stat
 
 ## Finished projects
 
-  *  :file_folder: <a href="https://github.com/CodingDuckmx/DS-Unit-1-Build--Correlation-between-LGBT-Rights-and-GDP">Is there a relation between LGBT rights and GDP per capita in the countries?</a> :page_facing_up: <a href="https://medium.com/@CodingDuckMx/is-there-a-relation-between-lgbt-rights-and-gdp-per-capita-in-the-countries-efba6e7dcc64"> Blog post.</a> 
+  *  📂 <a href="https://github.com/CodingDuckmx/DS-Unit-1-Build--Correlation-between-LGBT-Rights-and-GDP">Is there a relation between LGBT rights and GDP per capita in the countries?</a> 📝 <a href="https://medium.com/@CodingDuckMx/is-there-a-relation-between-lgbt-rights-and-gdp-per-capita-in-the-countries-efba6e7dcc64"> Blog post.</a> 
   
-  * :file_folder: <a href="https://github.com/CodingDuckmx/AmazonKindleReviews">Predicting stars on Kindle books' Reviews.</a> :page_facing_up: <a href="https://medium.com/@CodingDuckMx/predicting-kindle-books-reviews-3be74232e5d7"> Blog post.</a> 
+  * 📂 <a href="https://github.com/CodingDuckmx/AmazonKindleReviews">Predicting stars on Kindle books' Reviews.</a> 📝 <a href="https://medium.com/@CodingDuckMx/predicting-kindle-books-reviews-3be74232e5d7"> Blog post.</a> 
 
-### :construction: Under development projects :warning: 
+### 🏗️ Under development projects 🚧
 
-
-*  :rocket: <a href="https://github.com/CodingDuckmx/NFL-simulator">NFL Simulator</a>
+*  🚀 <a href="https://github.com/CodingDuckmx/NFL-simulator">NFL Simulator</a>
