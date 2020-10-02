@@ -40,7 +40,8 @@ I'm a Mathematician who decided to learn to code, applying my background in Stat
  
  🚀 Spotify recommender (Collaborative project) — 📂 <a href="https://github.com/Build-Week-Spotify-Song-Recommender">Github</a> — 📺 <a href="https://www.youtube.com/watch?v=9PxNpC14wQw&feature=youtu.be">Demo Video.</a>
  
- 🚀 Sauti Africa Market Monitoring  (Collaborative project) — 📂 <a href="https://github.com/Lambda-School-Labs/Sauti-Africa-Market-Monitoring-DS">Github</a> 
+ 🚀 Sauti Africa Market Monitoring  (Collaborative project) — 📂 <a href="https://github.com/Lambda-School-Labs/Sauti-Africa-Market-Monitoring-DS"> Project Github</a> 
+  — 📂 <a href="https://github.com/CodingDuckmx/Sauti-Africa-Market-Monitoring-DS"> Data Science Github</a> 
 
 
 
@@ -49,3 +50,7 @@ I'm a Mathematician who decided to learn to code, applying my background in Stat
 ### 🏗️ Under development projects 🚧
 
   🚀 NFL Simulator — 📂 <a href="https://github.com/CodingDuckmx/NFL-simulator">Github</a>
+  
+  🚀 Diagnostics and surveillance COVID-19 — 📂 <a href="https://github.com/CodingDuckmx/Diagnostics-and-surveillance-COVID-19">Github</a>
+  
+  🚀 K-modes Python Module (Homemade)  — 📂 <a href="https://github.com/CodingDuckmx/Homemade-K-modes-algorithm">Github</a>
