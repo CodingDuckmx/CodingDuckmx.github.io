@@ -28,11 +28,15 @@
 
 I'm a Mathematician who decided to learn to code, applying my background in Statistics to become a Data Scientist.  I have experience in Start-ups and e-commerce, willing to crush it on the Data Science field. 
 
+<br>
+
 ## Finished projects
 
   🚀  Is there a relation between LGBT rights and GDP per capita in the countries? — 📂 <a href="https://github.com/CodingDuckmx/DS-Unit-1-Build--Correlation-between-LGBT-Rights-and-GDP">Github</a> 📝 <a href="https://medium.com/@CodingDuckMx/is-there-a-relation-between-lgbt-rights-and-gdp-per-capita-in-the-countries-efba6e7dcc64"> Blog post.</a> 
   
   🚀 Predicting stars on Kindle books' Reviews. — 📂 <a href="https://github.com/CodingDuckmx/AmazonKindleReviews">Github</a> 📝 <a href="https://medium.com/@CodingDuckMx/predicting-kindle-books-reviews-3be74232e5d7"> Blog post.</a> 
+
+<br>
 
 ### 🏗️ Under development projects 🚧
 
