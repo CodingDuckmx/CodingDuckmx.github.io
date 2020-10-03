@@ -30,18 +30,29 @@ I'm a Mathematician who decided to learn to code, applying my background in Stat
 
 <br>
 
+### Remarkable skills:
+
+	🛠 Python 
+	🛠 SQL
+	🛠 Data visualization
+	🛠 Machine Learning
+	🛠 Statistics & Modeling
+	🛠 Natural Language Processing
+	
+<br>
+
 ## Finished projects
 
-  🚀  Is there a relation between the countries' Gross Domestic Product (GDP) and the LGB rights provided to their citizens? — 📂 <a href="https://github.com/CodingDuckmx/DS-Unit-1-Build--Correlation-between-LGBT-Rights-and-GDP">Github</a> 📝 <a href="https://medium.com/@CodingDuckMx/is-there-a-relation-between-lgbt-rights-and-gdp-per-capita-in-the-countries-efba6e7dcc64"> Blog post.</a> 
-  
-  🚀 Predicting stars on Kindle books' Reviews. — 📂 <a href="https://github.com/CodingDuckmx/AmazonKindleReviews">Github</a> 📝 <a href="https://medium.com/@CodingDuckMx/predicting-kindle-books-reviews-3be74232e5d7"> Blog post.</a> 
+	  🚀  Is there a relation between the countries' Gross Domestic Product (GDP) and the LGB rights provided to their citizens? — 📂 <a href="https://github.com/CodingDuckmx/DS-Unit-1-Build--Correlation-between-LGBT-Rights-and-GDP">GitHub</a> 📝 <a href="https://medium.com/@CodingDuckMx/is-there-a-relation-between-lgbt-rights-and-gdp-per-capita-in-the-countries-efba6e7dcc64"> Blog post.</a> 
 
- 🚀 Twitoff (web app) — 📂 <a href="https://github.com/CodingDuckmx/Twitoff">Github</a> — 📺 <a href="https://www.youtube.com/watch?v=9PxNpC14wQw&feature=youtu.be">Demo Video.</a>
- 
- 🚀 Spotify recommender (Collaborative project) — 📂 <a href="https://github.com/Build-Week-Spotify-Song-Recommender">Github</a> — 📺 <a href="https://www.youtube.com/watch?v=9PxNpC14wQw&feature=youtu.be">Demo Video.</a>
- 
- 🚀 Sauti Africa Market Monitoring  (Collaborative project) — 📂 <a href="https://github.com/Lambda-School-Labs/Sauti-Africa-Market-Monitoring-DS"> Project Github</a> 
-  — 📂 <a href="https://github.com/CodingDuckmx/Sauti-Africa-Market-Monitoring-DS"> Data Science Github</a> — 📺 <a href="https://www.youtube.com/watch?v=KpBUFMyogxA&feature=youtu.be">Demo Video.</a>
+	  🚀 Predicting stars on Kindle books' Reviews. — 📂 <a href="https://github.com/CodingDuckmx/AmazonKindleReviews">GitHub</a> 📝 <a href="https://medium.com/@CodingDuckMx/predicting-kindle-books-reviews-3be74232e5d7"> Blog post.</a> 
+
+	 🚀 Twitoff (web app) — 📂 <a href="https://github.com/CodingDuckmx/Twitoff">GitHub</a> — 📺 <a href="https://www.youtube.com/watch?v=9PxNpC14wQw&feature=youtu.be">Demo Video.</a>
+
+	 🚀 Spotify recommender (Collaborative project) — 📂 <a href="https://github.com/Build-Week-Spotify-Song-Recommender">GitHub</a> — 📺 <a href="https://www.youtube.com/watch?v=9PxNpC14wQw&feature=youtu.be">Demo Video.</a>
+
+	 🚀 Sauti Africa Market Monitoring  (Collaborative project) — 📂 <a href="https://github.com/Lambda-School-Labs/Sauti-Africa-Market-Monitoring-DS"> Project GitHub</a> 
+	  — 📂 <a href="https://github.com/CodingDuckmx/Sauti-Africa-Market-Monitoring-DS"> Data Science Github</a> — 📺 <a href="https://www.youtube.com/watch?v=KpBUFMyogxA&feature=youtu.be">Demo Video.</a>
 
 
 
@@ -49,8 +60,8 @@ I'm a Mathematician who decided to learn to code, applying my background in Stat
 
 ### 🏗️ Under development projects 🚧
 
-  🚀 NFL Simulator — 📂 <a href="https://github.com/CodingDuckmx/NFL-simulator">Github</a>
-  
-  🚀 Diagnostics and surveillance COVID-19 — 📂 <a href="https://github.com/CodingDuckmx/Diagnostics-and-surveillance-COVID-19">Github</a>
-  
-  🚀 K-modes Python Module (Homemade)  — 📂 <a href="https://github.com/CodingDuckmx/Homemade-K-modes-algorithm">Github</a>
+	  🚀 NFL Simulator — 📂 <a href="https://github.com/CodingDuckmx/NFL-simulator">GitHub</a>
+
+	  🚀 Diagnostics and surveillance COVID-19 — 📂 <a href="https://github.com/CodingDuckmx/Diagnostics-and-surveillance-COVID-19">GitHub</a>
+
+	  🚀 K-modes Python Module (Homemade)  — 📂 <a href="https://github.com/CodingDuckmx/Homemade-K-modes-algorithm">GitHub</a>
