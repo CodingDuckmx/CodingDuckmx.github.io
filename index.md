@@ -41,7 +41,7 @@ I'm a Mathematician who decided to learn to code, applying my background in Stat
  🚀 Spotify recommender (Collaborative project) — 📂 <a href="https://github.com/Build-Week-Spotify-Song-Recommender">Github</a> — 📺 <a href="https://www.youtube.com/watch?v=9PxNpC14wQw&feature=youtu.be">Demo Video.</a>
  
  🚀 Sauti Africa Market Monitoring  (Collaborative project) — 📂 <a href="https://github.com/Lambda-School-Labs/Sauti-Africa-Market-Monitoring-DS"> Project Github</a> 
-  — 📂 <a href="https://github.com/CodingDuckmx/Sauti-Africa-Market-Monitoring-DS"> Data Science Github</a> 
+  — 📂 <a href="https://github.com/CodingDuckmx/Sauti-Africa-Market-Monitoring-DS"> Data Science Github</a> — 📺 <a href="https://www.youtube.com/watch?v=KpBUFMyogxA&feature=youtu.be">Demo Video.</a>
 
 
 
