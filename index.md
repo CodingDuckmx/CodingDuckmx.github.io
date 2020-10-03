@@ -1,3 +1,6 @@
+<h5 align="right">
+<a href="/index_es.md">Español</a>
+</h5>
 <h1 align="center">
 	<img
 		width="300"
