@@ -60,9 +60,9 @@ Soy un matemático por la Universidad Nacional Autónoma de México (UNAM) que d
 
  🚀 Twitoff (web app) — 📂 <a href="https://github.com/CodingDuckmx/Twitoff">GitHub</a> — 📺 <a href="https://www.youtube.com/watch?v=9PxNpC14wQw&feature=youtu.be"> Video Demo.</a>
 
- 🚀 Spotify recommender (Collaborative project) — 📂 <a href="https://github.com/Build-Week-Spotify-Song-Recommender">GitHub</a> — 📺 <a href="https://www.youtube.com/watch?v=9PxNpC14wQw&feature=youtu.be"> Video Demo.</a>
+ 🚀 Spotify recommender (Proyecto en equipo) — 📂 <a href="https://github.com/Build-Week-Spotify-Song-Recommender">GitHub</a> — 📺 <a href="https://www.youtube.com/watch?v=9PxNpC14wQw&feature=youtu.be"> Video Demo.</a>
 
- 🚀 Sauti Africa Market Monitoring  (Collaborative project) — 📂 <a href="https://github.com/Lambda-School-Labs/Sauti-Africa-Market-Monitoring-DS"> Project GitHub</a> 
+ 🚀 Sauti Africa Market Monitoring  (Proyecto en equipo) — 📂 <a href="https://github.com/Lambda-School-Labs/Sauti-Africa-Market-Monitoring-DS"> Project GitHub</a> 
   — 📂 <a href="https://github.com/CodingDuckmx/Sauti-Africa-Market-Monitoring-DS"> Data Science Github</a> — 📺 <a href="https://www.youtube.com/watch?v=KpBUFMyogxA&feature=youtu.be">Presentación en video (Inglés).</a>
 
 
