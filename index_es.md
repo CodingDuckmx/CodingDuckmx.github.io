@@ -3,7 +3,7 @@ permalink: /index_es.html
 ---
 
 <h5 align="right">
-<a href="/index.md">English</a>
+<a href="/index.html">English</a>
 </h5>
 
 <h1 align="center">
