@@ -37,6 +37,10 @@ I'm a Mathematician who decided to learn to code, applying my background in Stat
 
 <br>
 
+<h3 align="center"> Data will  talk to you, if you are willing to listen. </h3>
+
+<br>
+
 ### Remarkable skills:
 
 	🛠 Python 
