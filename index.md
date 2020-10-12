@@ -33,7 +33,7 @@ permalink: /index.html
 </p>
 
 
-I'm a Mathematician who decided to learn to code, applying my background in Statistics to become a Data Scientist.  I have experience in Start-ups and e-commerce, willing to crush it on the Data Science field. 
+I'm a Mathematician who decided to learn coding, applying my background in Statistics to become a Data Scientist.  I have experience in Start-ups and e-commerce, willing to crush it on the Data Science field. 
 
 <br>
 
